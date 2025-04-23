@@ -1,0 +1,6 @@
+scipy==1.15.2
+diffusers==0.32.2
+transformers==4.49.0
+accelerate==1.4.0
+streamlit==1.43.1
+ollama==0.4.7
